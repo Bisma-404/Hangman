@@ -1,10 +1,10 @@
-# 🎨 Hangman Game (Tkinter GUI)
+# Hangman Game (Tkinter GUI)
 
 A **Python-based Hangman game** with a **beautiful Tkinter GUI**, interactive letter buttons, dynamic hangman drawing, and a restartable game loop. Players guess letters to reveal a hidden word while avoiding too many wrong guesses!
 
 ---
 
-## 📖 Overview
+## Overview
 
 This desktop game recreates the classic **Hangman word guessing challenge** with an engaging interface. It features **custom fonts, colors, and smooth UX**, making it more appealing than a console version.  
 
@@ -12,7 +12,7 @@ The secret word is randomly chosen from a dictionary file (`dictionary.txt`) or 
 
 ---
 
-## ✨ Key Features
+## Key Features
 
 ✅ **Graphical User Interface**
 - Left panel for **title & hangman drawing**  
@@ -24,8 +24,8 @@ The secret word is randomly chosen from a dictionary file (`dictionary.txt`) or 
 - **Step-by-step hangman drawing** for mistakes  
 
 ✅ **Win/Lose Popup Messages**
-- 🎉 Win → "You guessed the word!"  
-- 😢 Lose → "Game Over! Shows the correct word"  
+- Win → "You guessed the word!"  
+- Lose → "Game Over! Shows the correct word"  
 
 ✅ **Custom Styling**
 - Pastel color palette & Comic Sans fonts  
