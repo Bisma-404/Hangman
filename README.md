@@ -4,6 +4,11 @@ A **Python-based Hangman game** with a **beautiful Tkinter GUI**, interactive le
 
 ---
 
+## Preview  
+![Hangman Game Preview](image/Hangman Gui.png)  
+
+---
+
 ## Overview
 
 This desktop game recreates the classic **Hangman word guessing challenge** with an engaging interface. It features **custom fonts, colors, and smooth UX**, making it more appealing than a console version.  
