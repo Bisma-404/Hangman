@@ -5,7 +5,7 @@ A **Python-based Hangman game** with a **beautiful Tkinter GUI**, interactive le
 ---
 
 ## Preview  
-![Hangman Game Preview](image/Hangman Gui.png)  
+![Hangman Game Preview](image/HangmanGui.png)  
 
 ---
 
